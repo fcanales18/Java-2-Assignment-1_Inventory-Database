@@ -1,5 +1,5 @@
 # Java-2-Assignment-1_Inventory-Database
-This is mainly for my own purposes. This will serve as a learning exercise in which I can go back into these assignments and expand them! 
+This will serve as a learning exercise in which I will go back and expand them sometime in the future! 
 
 This program utilizes the concept of cohesion and seperation of compenents and an ArrayList to create a database of inventory. This database is capable of adding/removing products and displaying an inventory report.
 
